@@ -1,9 +1,8 @@
 node-multi-hashing
 ===============
 
-[![Build Status](https://travis-ci.org/zone117x/node-multi-hashing.png?branch=master)](https://travis-ci.org/zone117x/node-multi-hashing)
+## THIS REPOSITORY IS HIGHLY EXPERIMENTAL AND ADDITIONAL ALGORITHMS ARE IN TESTING ##
 
-[![NPM](https://nodei.co/npm/multi-hashing.png?downloads=true&stars=true)](https://nodei.co/npm/multi-hashing/)
 
 Cryptocurrency hashing functions for node.js.
 
@@ -19,6 +18,7 @@ Algorithms
 * scrypt
 * scryptn
 * scryptjane
+* skunkhash (added 11/11 - *EXPERIMENTAL - IN TESTING*)
 * keccak
 * bcrypt
 * skein
